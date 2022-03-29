@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851140268333",
+    "project_id": "imobiliare-d3e55",
+    "storage_bucket": "imobiliare-d3e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851140268333:android:08759fefc4a835e36cc3a4",
+        "android_client_info": {
+          "package_name": "com.example.imobiliare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851140268333-7aaoq0tfiooimlpkmvs7st86s1tgqhqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkTPU37Sr_MROKq8ZDTOhbqkQvDoNjZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851140268333-7aaoq0tfiooimlpkmvs7st86s1tgqhqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
